@@ -11,7 +11,7 @@ Amo viajar, ler e jogar no meu tempo livre.
 
 - :computer: Desenvolvedora Back-end 
 - :open_book: Estudante FullStack na Cubos Academy
-- :mortar_board: Estudante de Ciencia da Computação - Estácio
+- :mortar_board: Estudante de Ciência da Computação - Estácio
 - :earth_americas: Mochileira amadora
 - :video_game: Nintendista fã de Zelda e Pokemon
 
