@@ -23,10 +23,13 @@ Amo viajar, ler e jogar no meu tempo livre.
 
 ### My Skills
 
-![Javascript](https://img.shields.io/badge/Javascript-282C34?style=flat&logo=javascript)
-![Typescript](https://img.shields.io/badge/Typescript-282C34?logo=typescript)
-![HTML](https://img.shields.io/badge/HTML-282C34?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
 
 ### Bibliotecas e afins
 
