@@ -28,5 +28,4 @@ Amo viajar, ler e jogar no meu tempo livre.
 
 ### Bibliotecas e afins
 
-![Node.js](https://img.shields.io/badge/Node.js-282C34?logo=node.js)
-![React](https://img.shields.io/badge/React-282C34?logo=react)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
