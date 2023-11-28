@@ -23,9 +23,9 @@ Amo viajar, ler e jogar no meu tempo livre.
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,postgres,mongodb)](https://skillicons.dev)
 
 
 ### Bibliotecas e afins
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,expressjs,nestjs,prisma)](https://skillicons.dev)
